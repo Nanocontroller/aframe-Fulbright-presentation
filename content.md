@@ -13,6 +13,15 @@
 - XR and my personal experience creating and teaching it
 
 ------
+# About me
+
+* Worked with VR for 20+ years
+* Developed Learning Technologies with Computer Scientists
+* Created a Lab for learning technolgy R&D
+* Teach eXtended Reality in Chicago
+* Lucky to be a Fulbright Scholar
+
+------
 
 # Virtual Reality
 
