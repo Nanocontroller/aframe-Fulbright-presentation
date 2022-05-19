@@ -4,10 +4,10 @@
   <h1>Teaching XR technology as a Fulbright Fellow in Portugal.</h1>
   <p>Experience in Portugal</p>
   <p class="talk-info">
-    | Brenda A. Lopez Silva | Fulbright US Scholar 2021 |
+    Brenda A. Lopez Silva | Fulbright US Scholar 2020-2021
   </p>
 </div>
-
+ 
 <!-- NOTES -->
 - Personal Intro and Who I am
 - XR and my personal experience creating and teaching it
@@ -169,7 +169,9 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
   <div>
     <img data-src="media/img/scene-collage-circle.png">
     <i>Patrick Symmes</i>
-    <i>Friends and family</i>
+    <i>Laura Wolf & Alex Betts</i>
+    <i>Marta Borowska</i>
+    <i>Friends & Family</i>
   </div>
 </div>
 
