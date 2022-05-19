@@ -37,11 +37,12 @@
 # Augmented Reality 
 
 ---
-
+<!-- .slide: data-background-video="media/video/VR-ESCS-demo.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Real-Time Interaction
 
 ---
 
+<!-- .slide: data-background-video="media/video/ComunicacaoMultimedia.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Comunicacao Multimedia
 
 ------
@@ -61,7 +62,7 @@
 
 ------
 <!-- .slide: data-background="media/img/vespa-tour.gif" -->
-# Visitng Portugal 
+# Visiting Portugal 
 
 ---
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
@@ -85,25 +86,15 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 
 ---
 
----
-
 <div class="image-row">
-  <div><img data-src="media/img/google-cardboard.png"></div>
-  <div><img data-src="media/img/google-daydream.png"></div>
-  <div><img data-src="media/img/samsung-gearvr.png"></div>
+  <div><img data-src="media/img/food-imprensa.jpg"></div>
+  <div><img data-src="media/img/food-fish.jpg"></div>
+  <div><img data-src="media/img/food-amago.jpg"></div>
 </div>
 
-<div class="image-row">
-  <div><img data-src="media/img/oculus-rift.png"></div>
-  <div><img data-src="media/img/playstation-vr.png"></div>
-  <div><img data-src="media/img/htc-vive.png"></div>
-</div>
 
 <!-- NOTES -->
-- Backed by the largest corporations in the world, everyone wants in
-- Range from cheap to expensive, tethered and untethered, controllers, tracking
-- HTC Vive with Steam currently offers the most compelling experiences, but never know
-- See a lot of different devices, systems, platforms competing against each other...
+- Not only the places are great, but i also had an opportunity to eat and enjoy the deliscious food 
 
 ---
 
