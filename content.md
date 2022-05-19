@@ -1,16 +1,16 @@
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">
-  <h1>A-Frame</h1>
-  <p>A web framework for building VR experiences</p>
+  <h1>The Reality and Journey of Teaching Virtual and Augmented Reality in Portugal.</h1>
+  <p>Experience in Portugal</p>
   <p class="talk-info">
-    @andgokevin | Mozilla VR | **aframe.io**
+    @nanocontroller | Brenda A. Lopez Silva | **Fulfrigh US Scholar 2021**
   </p>
 </div>
 
 <!-- NOTES -->
-- Onboard web developers into the 3D and VR world with easy-to-use tools
-- Prototype WebVR experiences faster
+- Personal Intro and Who I am
+- XR and my personal experience creating and teaching it
 
 ------
 
