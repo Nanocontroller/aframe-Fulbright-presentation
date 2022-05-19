@@ -1,4 +1,4 @@
-<!-- .slide: data-background="media/img/aframe.jpg" -->
+<!-- .slide: data-background="media/img/F-Lisbon.png" -->
 
 <div class="talk-title">
   <h1>The Reality and Journey of Teaching Virtual and Augmented Reality in Portugal.</h1>
