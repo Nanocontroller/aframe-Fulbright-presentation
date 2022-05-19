@@ -17,12 +17,23 @@
 # About me
 
 * Worked with VR for 20+ years
-* Developed Learning Technologies with Computer Scientists
+* Developed Learning Technologies with scientists
 * Created a Lab for learning technolgy R&D
 * Teach eXtended Reality in Chicago
 * Lucky to be a Fulbright Scholar
 
 ------
+
+# Fulbright in Lisbon
+
+## ESCS
+
+* Augmented Reality 
+* Real-Time Interaction
+* Comunicao Multimedia
+
+------
+
 
 # Virtual Reality
 
