@@ -155,7 +155,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
   </div>
   <div>
     <img data-src="media/img/logo-escs.jpg">
-    <i>ESCS</i>
+    <i>ESCS: </i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
