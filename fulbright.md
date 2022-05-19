@@ -1,7 +1,7 @@
 <!-- .slide: data-background="media/img/F-Lisbon.png" -->
 
 <div class="talk-title">
-  <h1>The Reality and Journey of Teaching Virtual and Augmented Reality in Portugal.</h1>
+  <h1>Teaching XR technology as a Fulbright Fellow in Portugal.</h1>
   <p>Experience in Portugal</p>
   <p class="talk-info">
     @nanocontroller | Brenda A. Lopez Silva | **Fulfrigh US Scholar 2021**
