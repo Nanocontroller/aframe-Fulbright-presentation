@@ -115,17 +115,18 @@ An oportunity to extend a cultural exchange
 https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cGJzbDBOYnYSFgoUMDI3MzUzNzI5MjIyMTE3NUQ5RUEgAQ
 
 ---
-# Illustrative [Capturing Reality for XR]
+# Illustrative
 
 <div class="stretch" data-aframe-scene="scenes/azores1.html"></div>
 
 <!-- NOTES -->
-- Capturing the real world to bring it into XR environments
+- Capturing reality to bring it into XR environments
 - Works on VR, AR,
 
 ------
 <!-- .slide: data-background-color="#333" -->
 # Intuitive & Multisensorial
+<!-- .slide: data-background-video="media/video/intuitive-azores.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 ---
 # Sense of taste
