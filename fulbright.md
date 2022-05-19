@@ -58,7 +58,7 @@
 
 ---
 <!-- .slide: data-background="media/img/CAVE2-Antarctica.jpg" -->
-# The Five i’s of VR
+# The Five I’s of Virtual Reality
 
 Focus on multisensorial experiences
 
@@ -75,7 +75,7 @@ Focus on multisensorial experiences
 <!-- .slide: data-background-color="#333" -->
 # My experience in Portugal 
 
-The five i's of XR experiences...
+The five i's
 
 ---
 <!-- .slide: data-background-color="#333" -->
