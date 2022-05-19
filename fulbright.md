@@ -60,7 +60,7 @@
 <!-- .slide: data-background="media/img/CAVE2-Antarctica.jpg" -->
 # The Five I’s of Virtual Reality
 
-Focus on multisensorial experiences
+Building multi-sensory experiences
 
 <div class="slide__boilerplate">
   <p>Immersive </p>
@@ -73,13 +73,13 @@ Focus on multisensorial experiences
 
 ------
 <!-- .slide: data-background-color="#333" -->
-# My experience in Portugal 
+# My Own Five I’s of Living in Portugal
 
 The five i's
 
 ---
 <!-- .slide: data-background-color="#333" -->
-## Multisensorial Experience
+## Multisensory Experience
 
 An oportunity to extend a cultural exchange
 
