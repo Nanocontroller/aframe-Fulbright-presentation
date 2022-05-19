@@ -4,7 +4,7 @@
   <h1>Teaching XR technology as a Fulbright Fellow in Portugal.</h1>
   <p>Experience in Portugal</p>
   <p class="talk-info">
-    @nanocontroller | Brenda A. Lopez Silva | **Fulfrigh US Scholar 2021**
+    @nanocontroller | Brenda A. Lopez Silva | **Fulbright US Scholar 2021**
   </p>
 </div>
 
@@ -15,12 +15,12 @@
 ------
 <!-- .slide: data-background-video="media/video/CAVE2.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # About me
-
-* Worked with VR for 20+ years
-* Developed Learning Technologies with scientists
-* Created a Lab for learning technolgy R&D
-* Teach eXtended Reality in Chicago
-* Lucky to be a Fulbright Scholar
+<div class="slide__boilerplate">
+<p> Worked with VR for 20+ years</p>
+<p>Developed Learning Technologies with scientists</p>
+<p>Created a Lab for learning technolgy R&D</p>
+<p>Teach eXtended Reality in Chicago</p>
+<p>Lucky to be a Fulbright Scholar</p>
 
 ------
 <!-- .slide: data-background="media/img/escs.jpg" -->
