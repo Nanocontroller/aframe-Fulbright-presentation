@@ -27,6 +27,12 @@
 # Fulbright in Lisbon
 ## ESCS
 
+<div class="slide__boilerplate">
+  <p>Augmented Reality </p>
+  <p>Real-Time Interaction</p>
+  <p>Comunicao Multimedia</p>
+</div>
+
 * Augmented Reality 
 * Real-Time Interaction
 * Comunicao Multimedia
@@ -59,18 +65,26 @@
 
 
 ------
-<!-- .slide: data-background="media/img/verps-tour-gif" -->
+<!-- .slide: data-background="media/img/vespa-tour.gif" -->
 # Visitng Portugal 
 
 ---
+<!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
-# Vespa with Patrick
+### Enjoying reality 
 
 ---
 
-# Capturing Reality 
+# Visiting Azores
+
 
 https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cGJzbDBOYnYSFgoUMDI3MzUzNzI5MjIyMTE3NUQ5RUEgAQ
+
+---
+# Capturing Reality for XR
+
+
+---
 
 ---
 
