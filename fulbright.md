@@ -75,7 +75,7 @@ Focus on multisensorial experiences
 <!-- .slide: data-background-color="#333" -->
 # My experience in Portugal 
 
-Considering the five i's of VR and XR experiences...
+The five i's of XR experiences...
 
 ---
 <!-- .slide: data-background-color="#333" -->
