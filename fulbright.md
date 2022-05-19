@@ -43,7 +43,7 @@
 ---
 
 <!-- .slide: data-background-video="media/video/ComunicacaoMultimedia.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
-# Comunicacao Multimedia
+# Comunicação Multimédia
 
 ------
 
