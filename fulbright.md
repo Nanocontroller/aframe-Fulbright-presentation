@@ -159,7 +159,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
     <i>Otília Macedo Reis</i>
   </div>
   <div>
-    <img data-src="media/img/logo-escs.jpg">
+    <img data-src="media/img/logo-escs.png">
     <i>Sandra Lopez Miranda</i>
     <i>Martina Redondo</i>
     <i>Mariana Rita</i>
@@ -168,7 +168,8 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
-    <i></i>
+    <i>Patrick Symmes</i>
+    <i>Friends and family</i>
   </div>
 </div>
 
