@@ -16,7 +16,7 @@
 <!-- .slide: data-background-video="media/video/CAVE2.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # About me
 <div class="slide__boilerplate">
-<p> Worked with VR for 20+ years</p>
+<p>Worked with VR for 20+ years</p>
 <p>Developed Learning Technologies with scientists</p>
 <p>Created a Lab for learning technolgy R&D</p>
 <p>Teach eXtended Reality in Chicago</p>
@@ -57,6 +57,7 @@
 - It's the next platform, will change how we work + play + communicate digitally, face of society
 
 ---
+<!-- .slide: data-background="media/img/CAVE2-Antarctica.jpg" -->
 # Virtual Reality’s Five i’s
 
 Focus on multisensorial experiences
@@ -83,7 +84,7 @@ An oportunity to extend a cultural exchange
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/vespas.jpg">
-    <i>Vespas</i>
+    <i>Buying</i>
   </div>
   <div>
     <img data-src="media/img/vespa-mirror.png">
