@@ -80,8 +80,6 @@ Elements of a VR multi-sensory experience
 <!-- .slide: data-background-color="#333" -->
 ## Immersive
 
-An oportunity to extend a cultural exchange
-
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/vespas.png">
