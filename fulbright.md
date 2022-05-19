@@ -24,7 +24,7 @@
 ------
 <!-- .slide: data-background="media/img/escs.jpg" -->
 # Fulbright in Lisbon
-### ESCS
+### Escola Superior de Comunicação Social
 
 <div class="slide__boilerplate">
   <p>Augmented Reality</p>
