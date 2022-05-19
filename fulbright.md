@@ -1,10 +1,10 @@
 <!-- .slide: data-background="media/img/F-Lisbon.png" -->
 
 <div class="talk-title">
-  <h1>Teaching XR technology as a Fulbright Fellow in Portugal.</h1>
-  <p>Experience in Portugal</p>
+  <h1>Teaching XR technology as a Fulbright Fellow in Portugal</h1>
+
   <p class="talk-info">
-    Brenda A. Lopez Silva | Fulbright US Scholar 2020-2021
+    Brenda A. López Silva | Fulbright US Scholar 2020-2021
   </p>
 </div>
  
@@ -147,7 +147,11 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 <!-- .slide: data-background="media/img/fado.png" -->
 
 ---
-# Smell
+# Vision
+
+---
+
+# Touch
 
 ------
 # Muito Obrigada!
