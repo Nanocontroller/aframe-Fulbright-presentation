@@ -125,7 +125,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 <!-- .slide: data-background-video="media/video/intuitive-azores.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 ------
-# Multisensorial :: Taste
+# A Multisensory Experience
 
 <div class="image-row">
   <div><img data-src="media/img/food-imprensa.jpg"></div>
@@ -143,7 +143,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 <!-- .slide: data-background="media/img/fado.png" -->
 
 ---
-# Vision
+# Sight
 
 ---
 
