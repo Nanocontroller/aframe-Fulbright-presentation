@@ -4,7 +4,7 @@
   <h1>Teaching XR technology as a Fulbright Fellow in Portugal.</h1>
   <p>Experience in Portugal</p>
   <p class="talk-info">
-    @nanocontroller | Brenda A. Lopez Silva | **Fulbright US Scholar 2021**
+    | Brenda A. Lopez Silva | Fulbright US Scholar 2021 |
   </p>
 </div>
 
@@ -18,17 +18,17 @@
 <div class="slide__boilerplate">
 <p>Worked with VR for 20+ years</p>
 <p>Developed Learning Technologies with scientists</p>
-<p>Created a Lab for learning technolgy R&D</p>
+<p>Directed a Lab for learning Technolgies R&D</p>
 <p>Teach eXtended Reality in Chicago</p>
 <p>Lucky to be a Fulbright Scholar</p>
 
 ------
 <!-- .slide: data-background="media/img/escs.jpg" -->
 # Fulbright in Lisbon
-## ESCS
+### ESCS
 
 <div class="slide__boilerplate">
-  <p>Augmented Reality </p>
+  <p>Augmented Reality</p>
   <p>Real-Time Interaction</p>
   <p>Comunicao Multimedia</p>
 </div>
@@ -36,8 +36,8 @@
 ---
 <!-- .slide: data-background-video="media/video/escs-ar.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Augmented Reality 
----
 
+---
 <!-- .slide: data-background-video="media/video/VR-ESCS-demo.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Real-Time Interaction
 
@@ -101,12 +101,12 @@ An oportunity to extend a cultural exchange
 
 ---
 <!-- .slide: data-background="media/img/vespa-tour.gif" -->
-# Immersion in Portugal 
+# Immersion 
 
 ---
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
-# Interaction in Portugal 
+# Interaction
 
 ---
 
@@ -123,12 +123,12 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Capturing reality to bring it into XR environments
 - Works on VR, AR,
 
-------
+---
 <!-- .slide: data-background-color="#333" -->
 # Intuitive 
 <!-- .slide: data-background-video="media/video/intuitive-azores.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
----
+------
 # Multisensorial :: Sense of taste
 
 <div class="image-row">
@@ -146,30 +146,12 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 # sense of smell
 
 ------
-
-
-
-
-
-
-<!-- .slide: data-background="media/img/header.png" -->
-
-# Thank you
-
--------
-# THE END
-
-------
-
-
----
-
 # Muito Obrigada!
 
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/logo-Fulbright.png">
-    <i>Comissão Fulbright Portugal</i>
+    <i>Comissão Fulbright Portugal: Dora Arenga & </i>
   </div>
   <div>
     <img data-src="media/img/logo-escs.jpg">
