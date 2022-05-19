@@ -75,11 +75,10 @@ Elements of a VR multi-sensory experience
 <!-- .slide: data-background-color="#333" -->
 # My Own Five I’s of Living in Portugal
 
-The five i's
 
 ---
 <!-- .slide: data-background-color="#333" -->
-## Multisensory Experience
+## Immersive
 
 An oportunity to extend a cultural exchange
 
