@@ -91,7 +91,7 @@ An oportunity to extend a cultural exchange
     <i>Riding</i>
   </div>
   <div>
-    <img data-src="media/img/cvespa-fix.jpg">
+    <img data-src="media/img/vespa-fix.jpg">
     <i>Fixing!</i>
   </div>
 </div>
@@ -103,16 +103,16 @@ An oportunity to extend a cultural exchange
 ---
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
-### Enjoying reality 
+# Interaction in Portugal 
 
 ---
 
-# Visiting Azores
+# Intense [in the Azores]
 
 https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cGJzbDBOYnYSFgoUMDI3MzUzNzI5MjIyMTE3NUQ5RUEgAQ
 
 ---
-# Capturing Reality for XR
+# Illustrative [Capturing Reality for XR]
 
 <div class="stretch" data-aframe-scene="scenes/azores1.html"></div>
 
@@ -121,6 +121,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Works on VR, AR,
 
 ------
+# Intuitive & Multisensorial
 
 ---
 # Sense of taste
@@ -137,6 +138,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 
 ---
 
+# sense of smell
 
 ------
 
