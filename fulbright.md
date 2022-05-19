@@ -15,10 +15,10 @@
 <!-- .slide: data-background-video="media/video/CAVE2.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # About me
 <div class="slide__boilerplate">
-<p>Worked with VR for 20+ years</p>
-<p>Developed Learning Technologies with scientists</p>
-<p>Directed a Lab for learning Technolgies R&D</p>
-<p>Teach eXtended Reality in Chicago</p>
+<p>Developing VR applications for 20+ years</p>
+<p>Works with scientists and educators</p>
+<p>Recently directed a university laboratory for learning technologies</p>
+<p>Teaches XR technologies at School of the Art Institute of Chicago (SAIC)</p>
 <p>Lucky to be a Fulbright Scholar</p>
 
 ------
