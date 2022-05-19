@@ -19,7 +19,7 @@
 <p>Works with scientists and educators</p>
 <p>Recently directed a university laboratory for learning technologies</p>
 <p>Teaches XR technologies at School of the Art Institute of Chicago (SAIC)</p>
-<p>Lucky to be a Fulbright Scholar</p>
+<p>Lucky To Be a Fulbright Scholar in Portugal</p>
 
 ------
 <!-- .slide: data-background="media/img/escs.jpg" -->
