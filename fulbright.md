@@ -47,7 +47,6 @@
 ------
 
 
-
 # Virtual Reality
 
 <!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
@@ -78,6 +77,11 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 ---
 # Capturing Reality for XR
 
+<div class="stretch" data-aframe-scene="scenes/azores1.html"></div>
+
+<!-- NOTES -->
+- Capturing the real world to bring it into XR environments
+- Works on VR, AR,
 
 ---
 
