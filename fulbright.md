@@ -144,6 +144,11 @@ Elements of a VR multi-sensory experience
 
 ---
 # Sight
+<div class="image-row">
+  <div><img data-src="media/img/ar-experience.jpg"></div>
+  <div><img data-src="media/img/sight-img1.png"></div>
+</div>
+
 
 ---
 
