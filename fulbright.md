@@ -13,7 +13,7 @@
 - XR and my personal experience creating and teaching it
 
 ------
-<!-- .slide: data-background="media/img/CAVE2.jpg" -->
+<!-- .slide: data-background-video="media/video/CAVE2.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # About me
 
 * Worked with VR for 20+ years
