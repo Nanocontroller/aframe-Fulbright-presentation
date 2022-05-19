@@ -73,12 +73,14 @@ Focus on multisensorial experiences
 
 
 ------
+<!-- .slide: data-background-color="#333" -->
 # My experience in Portugal 
 
 Considering the five i's of VR and XR experiences...
 
 ---
-## Multisensorial Experience in Vespas
+<!-- .slide: data-background-color="#333" -->
+## Multisensorial Experience
 
 An oportunity to extend a cultural exchange
 
@@ -122,6 +124,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Works on VR, AR,
 
 ------
+<!-- .slide: data-background-color="#333" -->
 # Intuitive & Multisensorial
 
 ---
@@ -143,6 +146,23 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 
 ------
 
+
+# Registry
+
+<!-- .slide: data-background-color="#333" -->
+
+Curated collection of A-Frame components.
+
+<video loop data-src="media/video/leaphands.mp4" data-autoplay></video>
+
+---
+
+
+
+
+# THE END
+
+------
 # WebVR
 
 An open virtual reality platform with the advantages of **the Web**
@@ -250,116 +270,10 @@ https://webvr.rocks
 
 ---
 
-## Metaverse
 
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
 
-<!-- NOTES -->
-- Shared persistent collective virtual spaces
-- Alternate digital reality that the world may live, work, play
-- Must be decentralized/open/connected, the Web is best platform to fully realize
-- Where do we begin?
-- three.js abstracts WebGL, 3D, and WebVR, but could still make it more accessible
-
----
-
-Too hard to create WebVR experiences...
-
----
-
-<!-- .slide: data-background-video="media/video/boilerplate.mp4" data-state="state--bg-dark" -->
-
-<div class="slide__boilerplate">
-  <p>Import WebVR polyfill</p>
-  <p>Set up camera</p>
-  <p>Set up lights</p>
-  <p>Initialize scene</p>
-  <p>Declare and pass canvas</p>
-  <p>Listen to window resize</p>
-  <p>Install VREffect</p>
-  <p>Instantiate renderer</p>
-  <p>Create render loop</p>
-  <p>Preload assets</p>
-  <p>Figure out responsiveness</p>
-  <p>Deal with metatags and mobile</p>
-</div>
-
-<!-- NOTES -->
-- It's still too difficult to create WebVR experiences
-- Huge obstacle if doing small prototypes and experiments
-- Boilerplate needs updating with new versions of WebVR, three.js, and browser quirks
-- Encapsulate all of that into one line...
 
 ------
-
-# A-Frame
-
-<!-- .slide: data-background="media/img/aframe-rendered-full.png" -->
-
-A web framework for building virtual reality experiences
-
-<!-- NOTES -->
-- Launched last December
-- Why:
-  - Easy for web developers to create VR content, without graphics knowledge
-  - Prototype and experiment WebVR and VR UX faster
-  - Vehicle to kickstart WebVR ecosystem
-
----
-
-## Hello World
-
-<!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
-
-```html
-<html>
-  <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
-  <a-scene>
-
-
-
-
-
-  </a-scene>
-</html>
-```
-<!-- .element: class="stretch" -->
-
-<!-- NOTES -->
-- Just HTML
-- Drop a script tag, no build steps
-- Using Custom HTML Elements
-- One line of HTML `<a-scene>` handles
-  - canvas, camera, renderer, lights, controls, render loop, WebVR polyfill, VREffect
-- Put stuff inside our scene...
-
----
-
-## Hello World
-
-<!-- .slide: data-background="media/img/aframe.jpg" data-transition="fade-in slide-out" -->
-
-```html
-<html>
-  <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
-  <a-scene>
-    <a-box color="#4CC3D9" position="-1 0.5 -3" rotation="0 45 0"></a-box>
-    <a-cylinder color="#FFC65D" position="1 0.75 -3" radius="0.5" height="1.5"></a-cylinder>
-    <a-sphere color="#EF2D5E" position="0 1.25 -5" radius="1.25"></a-sphere>
-    <a-plane color="#7BC8A4" position="0 0 -4" rotation="-90 0 0" width="4" height="4"></a-plane>
-    <a-sky color="#ECECEC"></a-sky>
-  </a-scene>
-</html>
-```
-<!-- .element: class="stretch" -->
-
-<!-- NOTES -->
-- Basic 3D primitives with Custom Elements
-- Readable: HTML arguably most accessible language in computing
-- Encapsulated: copy-and-paste HTML anywhere else and still work, no state or variables
-- Quickly look at a live example...
-
----
 
 ## Hello Metaverse
 
@@ -390,37 +304,6 @@ A web framework for building virtual reality experiences
 
 ---
 
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="slide-in none" -->
-
-## Composing an Entity
-
-```html
-<a-entity>
-```
-<!-- .element: class="stretch" -->
-
-<!-- NOTES -->
-- Start with an `<a-entity>`
-- By itself, has no appearance, behavior, functionality
-- Plug in components to add appearance, behavior, functionality
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  geometry="primitive: sphere; radius: 1.5"
-  material="color: #343434; roughness: 0.4; sphericalEnvMap: #texture">
-```
-<!-- .element: class="stretch" -->
-
-<!-- NOTES -->
-- Syntax similar to CSS styles
-- Component names as HTML attributes
-- Component properties and values as HTML attribute value
 
 ---
 
@@ -435,101 +318,6 @@ A web framework for building virtual reality experiences
   position="-1 2 4" rotation="45 0 90" scale="2 2 2">
 ```
 <!-- .element: class="stretch" -->
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  geometry="primitive: sphere; radius: 1.5"
-  material="color: #343434; roughness: 0.4; sphericalEnvMap: #texture"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2"
-  animation="property: rotation; loop: true; to: 0 360 0"
-  movement-pattern="type: spline; speed: 4">
-```
-<!-- .element: class="stretch" -->
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  json-model="src: #robot"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2"
-  animation="property: rotation; loop: true; to: 0 360 0"
-  movement-pattern="type: spline; speed: 4">
-```
-<!-- .element: class="stretch" -->
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  json-model="src: #robot"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2"
-  animation="property: rotation; loop: true; to: 0 360 0"
-  movement-pattern="type: attack; target: #player"
-  explode="on: hit">
-```
-<!-- .element: class="stretch" -->
-
----
-
-<!-- .slide: data-background="media/img/standard-components.png" data-background-size="contain" -->
-
-<!-- NOTES -->
-- These are some components that ship with A-Frame
-- A-Frame is fully extensible at its core so...
-
----
-
-<!-- .slide: data-background="media/img/community-components.png" data-background-size="contain" -->
-
-<!-- NOTES -->
-- Community has filled the ecosystem with tons of components
-- Components can do whatever they want, have full access to three.js and Web APIs
-- The component ecosystem the lifeblood of A-Frame
-- Physics, leap motion, particle systems, audio visualizations, oceans
-- Drop these components as script tags and use them straight from HTML
-- Advanced developers empowering other developers
-- Working on collecting these components...
-
----
-
-# Registry
-
-<!-- .slide: data-background-color="#333" -->
-
-Curated collection of A-Frame components.
-
-<a class="stretch" href="https://aframe.io/aframe-registry">
-  <video loop data-src="media/video/registrypreview.mp4" data-autoplay></video>
-</a>
-
-<!-- NOTES -->
-- Collecting them into the A-Frame registry
-- Like a store of components that we make sure work well
-- People can browse and search for components or install them....
-
----
-
-# Registry
-
-<!-- .slide: data-background-color="#333" -->
-
-Curated collection of A-Frame components.
-
-<video loop data-src="media/video/leaphands.mp4" data-autoplay></video>
 
 ---
 
