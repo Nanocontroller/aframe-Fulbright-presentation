@@ -58,9 +58,7 @@
 
 ---
 <!-- .slide: data-background="media/img/CAVE2-Antarctica.jpg" -->
-# The Five I’s of Virtual Reality
-
-Building multi-sensory experiences
+# The Five I’s of VR
 
 <div class="slide__boilerplate">
   <p>Immersive</p>
@@ -70,6 +68,8 @@ Building multi-sensory experiences
   <p>Intuitive</p>
 </div>
 
+<!-- NOTES -->
+Elements of a VR multi-sensory experience
 
 ------
 <!-- .slide: data-background-color="#333" -->
