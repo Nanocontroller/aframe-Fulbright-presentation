@@ -29,7 +29,7 @@
 <div class="slide__boilerplate">
   <p>Augmented Reality</p>
   <p>Real-Time Interaction</p>
-  <p>Comunicao Multimedia</p>
+  <p>Comunicação Multimédia</p>
 </div>
 
 ---
