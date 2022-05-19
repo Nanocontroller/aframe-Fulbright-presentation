@@ -57,11 +57,47 @@
 - It's the next platform, will change how we work + play + communicate digitally, face of society
 
 ---
+# Virtual Reality’s Five i’s
+
+Focus on multisensorial experiences
+
+<div class="slide__boilerplate">
+  <p>Immersive </p>
+  <p>Interactive</p>
+  <p>Intense</p>
+  <p>Illustrative</p>
+  <p>Intuitive</p>
+</div>
 
 
 ------
+# My experience in Portugal 
+
+Considering the five i's of VR and XR experiences...
+
+---
+## Multisensorial Experience in Vespas
+
+An oportunity to extend a cultural exchange
+
+<div class="captioned-image-row">
+  <div>
+    <img data-src="media/img/vespas.jpg">
+    <i>Vespas</i>
+  </div>
+  <div>
+    <img data-src="media/img/vespa-mirror.png">
+    <i>Riding</i>
+  </div>
+  <div>
+    <img data-src="media/img/cvespa-fix.jpg">
+    <i>Fixing!</i>
+  </div>
+</div>
+
+---
 <!-- .slide: data-background="media/img/vespa-tour.gif" -->
-# Visiting Portugal 
+# Immersion in Portugal 
 
 ---
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
@@ -84,8 +120,6 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Works on VR, AR,
 
 ------
-# Multisensorial Experiences
-
 
 ---
 # Sense of taste
@@ -102,24 +136,6 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 
 ---
 
-## Multisensorial Experience in Vespas
-
-An oportunity to extend a cultural exchange
-
-<div class="captioned-image-row">
-  <div>
-    <img data-src="media/img/vespas.jpg">
-    <i>Vespas</i>
-  </div>
-  <div>
-    <img data-src="media/img/vespa-mirror.png">
-    <i>Riding</i>
-  </div>
-  <div>
-    <img data-src="media/img/cvespa-fix.jpg">
-    <i>Fixing!</i>
-  </div>
-</div>
 
 ------
 
