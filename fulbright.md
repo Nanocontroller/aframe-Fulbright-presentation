@@ -129,7 +129,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 <!-- .slide: data-background-video="media/video/intuitive-azores.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 ------
-# Multisensorial :: Sense of taste
+# Multisensorial :: Taste
 
 <div class="image-row">
   <div><img data-src="media/img/food-imprensa.jpg"></div>
@@ -142,8 +142,12 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Not only the places are great, but i also had an opportunity to eat and enjoy the delicious food 
 
 ---
+# Hear
 
-# sense of smell
+<!-- .slide: data-background="media/img/fado.png" -->
+
+---
+# Smell
 
 ------
 # Muito Obrigada!
@@ -151,11 +155,16 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/logo-Fulbright.png">
-    <i>Comissão Fulbright Portugal: Dora Arenga & </i>
+    <i>Dora Reis Arenga</i>
+    <i>Otília Macedo Reis</i>
   </div>
   <div>
     <img data-src="media/img/logo-escs.jpg">
-    <i>ESCS: </i>
+    <i>Sandra Lopez Miranda</i>
+    <i>Martina Redondo</i>
+    <i>Mariana Rita</i>
+    <i>Ricardo Rodriguez</i>
+    <i>Miguel Batista</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
