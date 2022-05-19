@@ -47,7 +47,6 @@
 
 ------
 
-
 # Virtual Reality
 
 <!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
@@ -84,7 +83,12 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Capturing the real world to bring it into XR environments
 - Works on VR, AR,
 
+------
+# Multisensorial Experiences
+
+
 ---
+# Sense of taste
 
 <div class="image-row">
   <div><img data-src="media/img/food-imprensa.jpg"></div>
@@ -94,32 +98,28 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 
 
 <!-- NOTES -->
-- Not only the places are great, but i also had an opportunity to eat and enjoy the deliscious food 
+- Not only the places are great, but i also had an opportunity to eat and enjoy the delicious food 
 
 ---
 
-## Friction of VR Ecosystems
+## Multisensorial Experience in Vespas
+
+An oportunity to extend a cultural exchange
 
 <div class="captioned-image-row">
   <div>
-    <img data-src="media/img/gatekeeper.png">
-    <i>Gatekeepers</i>
+    <img data-src="media/img/vespas.jpg">
+    <i>Vespas</i>
   </div>
   <div>
-    <img data-src="media/img/downloads-installs.png">
-    <i>Installs</i>
+    <img data-src="media/img/vespa-mirror.png">
+    <i>Riding</i>
   </div>
   <div>
-    <img data-src="media/img/closed-door.png">
-    <i>Closed</i>
+    <img data-src="media/img/cvespa-fix.jpg">
+    <i>Fixing!</i>
   </div>
 </div>
-
-<!-- NOTES -->
-- App stores and corporations control distribution: can take down or block content
-- Downloads / installs are a barrier to consumption: small business pages
-- Closed ecosystem: proprietary engines, steep learning curves, siloed experiences, fragmentation
-- We want VR to be successful, so we want a platform without these points of friction. The answer is WebVR...
 
 ------
 
