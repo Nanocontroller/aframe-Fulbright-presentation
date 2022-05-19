@@ -84,7 +84,7 @@ An oportunity to extend a cultural exchange
 
 <div class="captioned-image-row">
   <div>
-    <img data-src="media/img/vespas.jpg">
+    <img data-src="media/img/vespas.png">
     <i>Buying</i>
   </div>
   <div>
