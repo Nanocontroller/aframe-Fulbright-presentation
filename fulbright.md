@@ -135,24 +135,36 @@ Elements of a VR multi-sensory experience
 
 
 <!-- NOTES -->
-- Not only the places are great, but i also had an opportunity to eat and enjoy the delicious food 
+- In XR the hardest senses to simulate are smell and taste
 
 ---
-# 
 
-<!-- .slide: data-background="media/img/fado.png" -->
-
----
-# Sight
 <div class="image-row">
-  <div><img data-src="media/img/ar-experience.jpg"></div>
-  <div><img data-src="media/img/sight-img1.png"></div>
+  <div><img data-src="media/img/Sound_comes_alive.jpg"></div>
+  <div><img data-src="media/img/fado.png"></div>
+</div>
+
+---
+
+<div class="image-row">
+  <div><img data-src="media/img/vr-sound.jpg"></div>
+  <div><img data-src="media/img/lagoa-do-fogo.jpg"></div>
+</div>
+
+<!-- NOTES -->
+- sense of Sight
+
+---
+
+
+<div class="image-row">
+  <div><img data-src="media/img/sense-experience.jpg"></div>
+  <div><img data-src="media/img/sense-touch-design-compressor.jpg"></div>
 </div>
 
 
----
-
-# Touch
+<!-- NOTES -->
+- sense of touch
 
 ------
 # Muito Obrigada!
