@@ -106,9 +106,9 @@ Elements of a VR multi-sensory experience
 
 ---
 
-# Intense [in the Azores]
+# Intense
 
-https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cGJzbDBOYnYSFgoUMDI3MzUzNzI5MjIyMTE3NUQ5RUEgAQ
+<!-- .slide: data-background-video="media/video/Azores-earth.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 ---
 # Illustrative
@@ -138,7 +138,7 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 - Not only the places are great, but i also had an opportunity to eat and enjoy the delicious food 
 
 ---
-# Hear
+# 
 
 <!-- .slide: data-background="media/img/fado.png" -->
 
