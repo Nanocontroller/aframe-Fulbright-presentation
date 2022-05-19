@@ -33,10 +33,6 @@
   <p>Comunicao Multimedia</p>
 </div>
 
-* Augmented Reality 
-* Real-Time Interaction
-* Comunicao Multimedia
-
 ---
 # Augmented Reality 
 
