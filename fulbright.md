@@ -58,7 +58,7 @@
 
 ---
 <!-- .slide: data-background="media/img/CAVE2-Antarctica.jpg" -->
-# Virtual Reality’s Five i’s
+# The Five i’s of VR
 
 Focus on multisensorial experiences
 
