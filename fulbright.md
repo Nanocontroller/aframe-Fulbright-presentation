@@ -13,7 +13,7 @@
 - XR and my personal experience creating and teaching it
 
 ------
-
+<!-- .slide: data-background="media/img/F-Lisbon.png" -->
 # About me
 
 * Worked with VR for 20+ years
@@ -23,16 +23,27 @@
 * Lucky to be a Fulbright Scholar
 
 ------
-
+<!-- .slide: data-background="media/img/escs.jpg" -->
 # Fulbright in Lisbon
-
 ## ESCS
 
 * Augmented Reality 
 * Real-Time Interaction
 * Comunicao Multimedia
 
+---
+# Augmented Reality 
+
+---
+
+# Real-Time Interaction
+
+---
+
+# Comunicacao Multimedia
+
 ------
+
 
 
 # Virtual Reality
