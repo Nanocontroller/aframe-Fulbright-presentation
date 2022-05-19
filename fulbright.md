@@ -125,11 +125,11 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 
 ------
 <!-- .slide: data-background-color="#333" -->
-# Intuitive & Multisensorial
+# Intuitive 
 <!-- .slide: data-background-video="media/video/intuitive-azores.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 ---
-# Sense of taste
+# Multisensorial :: Sense of taste
 
 <div class="image-row">
   <div><img data-src="media/img/food-imprensa.jpg"></div>
@@ -148,308 +148,36 @@ https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cG
 ------
 
 
-# Registry
-
-<!-- .slide: data-background-color="#333" -->
-
-Curated collection of A-Frame components.
-
-<video loop data-src="media/video/leaphands.mp4" data-autoplay></video>
-
----
 
 
 
-
-# THE END
-
-------
-# WebVR
-
-An open virtual reality platform with the advantages of **the Web**
-
-<div class="captioned-image-row">
-  <div>
-    <img data-src="media/img/web-is-open.png">
-    <i>Open</i>
-  </div>
-  <div>
-    <img data-src="media/img/web-is-connected.png">
-    <i>Connected</i>
-  </div>
-  <div>
-    <img data-src="media/img/web-is-instant.png">
-    <i>Instant</i>
-  </div>
-</div>
-
-<!-- NOTES -->
-WebVR is...virtual reality in the browser, powered by the Internet
-
-Open:
-- Anyone can publish
-- Open source culture with open standards
-
-Connected:
-- Traverse worlds
-
-Instant:
-- Click a link on Twitter or Weibo, immediate VR experiences
-- No installs
-- Imagine for long tail experiences: shopping & personal spaces
-- Great for long tail bite-sized experiences
-
-Transition:
-- Web has advantages that make it the best platform for the people
-- Need to act to make it reality, can't wait for VR to bake and crystallize
-- Get involved
-
----
-
-<img class="stretch" data-src="media/img/webvr.png">
-
-Browser APIs that enable WebGL rendering to headsets and access to VR
-sensors
-
-https://w3c.github.io/webvr/
-
-<!-- NOTES -->
-API:
-- Optimized rendering path to headsets
-- Access position and rotation (pose) data
-
-History:
-- Initial WebVR API by Mozilla
-- Working W3C community group
-- Mozilla, Google, Samsung, Microsoft, community currently iterating WebVR 1.0 API
-
-Not just a specification, it's implemented...
-
----
-
-https://webvr.rocks
-
-<div class="captioned-image-row small">
-  <div>
-    <img data-src="media/img/firefox-nightly.png">
-    <i>Firefox Nightly</i>
-  </div>
-  <div>
-    <img data-src="media/img/edge.jpg">
-    <i>Microsoft Edge</i>
-  </div>
-  <div>
-    <img data-src="media/img/chromium.png">
-    <i>Chromium</i>
-  </div>
-</div>
-
-<div class="captioned-image-row small">
-  <div>
-    <img data-src="media/img/chrome.jpg">
-    <i>Chrome for Android</i>
-  </div>
-  <div>
-    <img data-src="media/img/carmel.jpg">
-    <i>Oculus Carmel</i>
-  </div>
-  <div>
-    <img data-src="media/img/samsung-browser.png">
-    <i>Samsung Internet</i>
-  </div>
-  <div>
-    <img data-src="media/img/google-cardboard.png">
-    <i>Mobile Polyfill</i>
-  </div>
-</div>
-
-<!-- NOTES -->
-- Firefox + Chrome WebVR 1.0 hits release channels by early 2017
-- Currently behind Nightly, custom builds, and flags
-- Mobile Polyfill: use device motion / orientation sensors to polyfill on smartphones
-- With all the browsers behind it...
-
----
-
-
-
-
-------
-
-## Hello Metaverse
-
-<i>by Ada Rose Edwards (@lady_ada_king)</i>
-
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
-
-<div class="stretch" data-aframe-scene="scenes/80s.html"></div>
-
-<!-- NOTES -->
-- A-Frame scene by Ada Rose Edwards running from inside my HTML slides
-- Works on desktop, Android, iOS, Samsung Gear VR, Oculus Rift, HTC Vive
-- Could open up the DOM Inspector to change values live
-
----
-
-# Entity-Component-System
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" -->
-
-<!-- NOTES -->
-- Is an entity-component framework
-- Popular in game development, used by Unity
-- All objects in scene are **entities** that inherently empty objects. Plug in
-  **components** to attach appearance / behavior / functionality
-- 2D web where every element was fixed
-- 3D/VR is different, objects of infinite types and complexities, need an easy way to build up different kinds of objects
-
----
-
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  geometry="primitive: sphere; radius: 1.5"
-  material="color: #343434; roughness: 0.4; sphericalEnvMap: #texture"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2">
-```
-<!-- .element: class="stretch" -->
-
----
-
-## Inspector
-
-<!-- .slide: data-background="media/img/inspector.png" data-state="state--bg-dark" -->
-
-Visual tool for A-Frame. Just `<ctrl>+<alt>+i`.
-
-<div class="stretch" data-aframe-scene="scenes/80s.html"></div>
-
-------
 
 <!-- .slide: data-background="media/img/header.png" -->
 
-# Community
+# Thank you
 
-https://aframe.io/blog/
+-------
+# THE END
 
----
+------
 
-<!-- .slide: data-background="media/img/apainter.gif" -->
-
-# Art - *A-Painter*
-
-@mozillavr
 
 ---
 
-<!-- .slide: data-background="media/img/syria.gif" -->
-
-# Journalism - *Fear of the Sky*
-
-Amnesty International UK
-
----
-
-<!-- .slide: data-background="media/img/mars.jpg" -->
-
-# Journalism - *Journey to Mars*
-
-The Washington Post
-
----
-
-<!-- .slide: data-background="media/img/citybuilder.gif" -->
-
-# Sandbox - *City Builder*
-
-@kfarr
-
----
-
-<!-- .slide: data-background="media/img/adit.gif" -->
-
-# Data Visualization - *Adit*
-
-@datatitian
-
----
-
-<!-- .slide: data-background="media/img/a-blast.gif" -->
-
-# Gaming - *A-Blast*
-
-@mozillavr
-
----
-
-<!-- .slide: data-background="media/img/ux.gif" -->
-
-# Prototyping - *UI Widgets*
-
-@whoyee
-
----
-
-<!-- .slide: data-background="media/img/math.gif" -->
-
-# Mathematics - *MathworldVR*
-
-@sleighdogs
-
----
-
-<!-- .slide: data-background="media/img/ar.gif" -->
-
-# AR - *AR.js + A-Frame*
-
-@jerome_etienne
-
----
-
-<!-- .slide: data-background="media/img/webvrstudio.png" -->
-
-# Tools - *WebVR Studio*
-
-@webvrstudio
-
----
-
-<!-- .slide: data-background-video="media/video/livetour.mp4" data-background-video-loop="true" -->
-
-# Real Estate - *Live Tour*
-
-iStaging
-
----
-
-<!-- .slide: data-background="media/img/cadavr.gif" -->
-
-# Education - *CadaVR*
-
-@drryanjames
-
----
-
-# aframe.io
+# Muito Obrigada!
 
 <div class="captioned-image-row">
   <div>
-    <img data-src="media/img/github.png">
-    <i>180+ contributors 6000+ Stargazers</i>
+    <img data-src="media/img/logo-Fulbright.png">
+    <i>Comissão Fulbright Portugal</i>
   </div>
   <div>
-    <img data-src="media/img/slack.png">
-    <i>4000+ members on Slack</i>
+    <img data-src="media/img/logo-escs.jpg">
+    <i>ESCS</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
-    <i>100s of featured projects</i>
+    <i></i>
   </div>
 </div>
 
