@@ -63,7 +63,7 @@
 Building multi-sensory experiences
 
 <div class="slide__boilerplate">
-  <p>Immersive </p>
+  <p>Immersive</p>
   <p>Interactive</p>
   <p>Intense</p>
   <p>Illustrative</p>
@@ -100,12 +100,12 @@ An oportunity to extend a cultural exchange
 
 ---
 <!-- .slide: data-background="media/img/vespa-tour.gif" -->
-# Immersion 
+# Immersive 
 
 ---
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
-# Interaction
+# Interactive
 
 ---
 
