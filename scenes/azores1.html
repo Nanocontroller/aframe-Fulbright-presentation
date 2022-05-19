@@ -6,9 +6,12 @@
   </a-assets>  
 
 
-  <a-entity gltf-model="#m-01" shadow="cast: true" position="0 0 -10" scale="1 1 1"></a-entity>
+  <a-entity gltf-model="#m-01" shadow="cast: true" position="0 0 -10" scale="1 1 1"
+            animation="property: object3D.rotation.y; to: 360; dur: 5000; loop: true"
+            animation__2="property: object3D.position.x; to: .25; dir: alternate; dur: 5000; easing: easeInOutElastic; loop: true"
+            ></a-entity>
 
-  <a-entity position="0 0 -4" gltf-model="#m-02"></a-entity>
+  <a-entity position="0 1 -4" gltf-model="#m-02"></a-entity>
   <a-plane color="#7BC8A4" rotation="-90 0 0" position="0 0 -4" width="4" height="4"></a-plane>
   <a-sky color="#ECECEC"></a-sky>
 </a-scene>
