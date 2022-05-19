@@ -83,15 +83,15 @@ Elements of a VR multi-sensory experience
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/vespas.png">
-    <i>Buying</i>
+    <i>-</i>
   </div>
   <div>
     <img data-src="media/img/vespa-mirror.png">
-    <i>Riding</i>
+    <i>-</i>
   </div>
   <div>
     <img data-src="media/img/vespa-fix.jpg">
-    <i>Fixing!</i>
+    <i>-</i>
   </div>
 </div>
 
