@@ -13,7 +13,7 @@
 - XR and my personal experience creating and teaching it
 
 ------
-<!-- .slide: data-background="media/img/F-Lisbon.png" -->
+<!-- .slide: data-background="media/img/CAVE2.jpg" -->
 # About me
 
 * Worked with VR for 20+ years
