@@ -57,6 +57,23 @@
 
 ---
 
+
+------
+<!-- .slide: data-background="media/img/verps-tour-gif" -->
+# Visitng Portugal 
+
+---
+
+# Vespa with Patrick
+
+---
+
+# Capturing Reality 
+
+https://earth.google.com/web/data=MkEKPwo9CiExRGxjSVNxQ1JBR1ZMTU9kbmtWZmlJa0o3cGJzbDBOYnYSFgoUMDI3MzUzNzI5MjIyMTE3NUQ5RUEgAQ
+
+---
+
 <div class="image-row">
   <div><img data-src="media/img/google-cardboard.png"></div>
   <div><img data-src="media/img/google-daydream.png"></div>
