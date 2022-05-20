@@ -15,11 +15,12 @@
 <!-- .slide: data-background-video="media/video/CAVE2.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # About me
 <div class="slide__boilerplate">
+
 <p>VR application developer for 20+ years</p>
 <p>Works with scientists and educators</p>
 <p>Directed a university lab for learning technologies</p>
 <p>Teaches XR technologies at School of the Art Institute of Chicago (SAIC)</p>
-<p>Lucky To Be a Fulbright Scholar in Portugal</p>
+</div>
 
 ------
 <!-- .slide: data-background="media/img/escs.jpg" -->
@@ -33,21 +34,42 @@
 </div>
 
 ---
-<!-- .slide: data-background-video="media/video/escs-ar.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Augmented Reality 
+
+<!-- .element: class="stretch" -->
+
+<!-- .slide: data-background-video="media/video/escs-ar.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 ---
 <!-- .slide: data-background-video="media/video/VR-ESCS-demo.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Real-Time Interaction
 
+<!-- .element: class="stretch" -->
 ---
 
 <!-- .slide: data-background-video="media/video/ComunicacaoMultimedia.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 # Comunicação Multimédia
 
+<!-- .element: class="stretch" -->
+---
+
+<div class="image-row">
+  <div><img data-src="media/img/google-cardboard.png"></div>
+  <div><img data-src="media/img/oculusquest2.png"></div>
+  <div><img data-src="media/img/htc-vive.png"></div>
+</div>
+
+<div class="image-row">
+  <div><img data-src="media/img/aframe-logo-scene.png"></div>
+  <div><img data-src="media/img/hubs-mozilla-logo.png"></div>
+  <div><img data-src="media/img/unity3d-logo.png"></div>
+</div>
+
 ------
 
 # Virtual Reality
+
+<!-- .element: class="stretch" -->
 
 <!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
@@ -57,8 +79,14 @@
 - It's the next platform, will change how we work + play + communicate digitally, face of society
 
 ---
+<!-- .slide: data-background="media/img/brain.jpg" -->
+# Multisensory Experiences in VR
+<!-- .element: class="stretch" -->
+
+---
 <!-- .slide: data-background="media/img/CAVE2-Antarctica.jpg" -->
 # The Five I’s of VR
+<br><br><br><br>
 
 <div class="slide__boilerplate">
   <p>Immersive</p>
@@ -67,6 +95,9 @@
   <p>Illustrative</p>
   <p>Intuitive</p>
 </div>
+
+
+
 
 <!-- NOTES -->
 Elements of a VR multi-sensory experience
@@ -80,18 +111,17 @@ Elements of a VR multi-sensory experience
 <!-- .slide: data-background-color="#333" -->
 ## Immersive
 
-<div class="captioned-image-row">
+<!-- .element: class="stretch" -->
+
+<div class="image-row">
   <div>
     <img data-src="media/img/vespas.png">
-    <i>-</i>
   </div>
   <div>
     <img data-src="media/img/vespa-mirror.png">
-    <i>-</i>
   </div>
   <div>
     <img data-src="media/img/vespa-fix.jpg">
-    <i>-</i>
   </div>
 </div>
 
@@ -99,12 +129,16 @@ Elements of a VR multi-sensory experience
 <!-- .slide: data-background="media/img/vespa-tour.gif" -->
 # Immersive 
 
+<!-- .element: class="stretch" -->
 ---
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 # Interactive
 
+<!-- .element: class="stretch" -->
 ---
+
+<!-- .element: class="stretch" -->
 
 # Intense
 
@@ -117,10 +151,12 @@ Elements of a VR multi-sensory experience
 
 <!-- NOTES -->
 - Capturing reality to bring it into XR environments
-- Works on VR, AR,
+- We can make spaces and objects available locatin independent
 
 ---
 <!-- .slide: data-background-color="#333" -->
+<div class="stretch">
+
 # Intuitive 
 <!-- .slide: data-background-video="media/video/intuitive-azores.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
@@ -172,8 +208,11 @@ Elements of a VR multi-sensory experience
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/logo-Fulbright.png">
-    <i>Dora Reis Arenga</i>
-    <i>Otília Macedo Reis</i>
+    <i>Dora Reis Arenga</i><i>Otília Macedo Reis</i>
+    <hr style="width:60%">
+    <i></i><i></i><i></i><i></i><i></i><i></i>
+    
+
   </div>
   <div>
     <img data-src="media/img/logo-escs.png">
@@ -182,18 +221,15 @@ Elements of a VR multi-sensory experience
     <i>Mariana Rita</i>
     <i>Ricardo Rodriguez</i>
     <i>Miguel Batista</i>
+    <i>Ricardo Pereira</i>
+    <i>Margarida Carvalho</i>
+    <i>Filipe Montargil</i>
   </div>
   <div>
-    <img data-src="media/img/scene-collage-circle.png">
-    <i>Patrick Symmes</i>
-    <i>Laura Wolf & Alex Betts</i>
-    <i>Marta Borowska</i>
-    <i>Friends & Family</i>
+    <img data-src="media/img/logo-escs.png">
+    
   </div>
 </div>
 
 <!-- NOTES -->
-- Open source and inclusive project
-- Most work done on GitHub
-- Active community on Slack to share projects, interact, hang out, seek help
-- Featured projects on the `awesome-aframe` repository and *A Week of A-Frame* blog
+- 
