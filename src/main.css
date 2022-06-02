@@ -417,10 +417,11 @@ body:not(.aframe-inspector-opened) .toggle-edit {
 }
 
 .talk-footer-image img{
-  position: relative;
-  top: 230px;
+  position: absolute;
+  bottom: 0;
+
   max-width: 400px;  
-}
+  }
 
 div.slide__boilerplate {
   color: #333;
