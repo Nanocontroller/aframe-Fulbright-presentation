@@ -1,4 +1,4 @@
-<!-- .slide: data-background="media/img/F-Lisbon.png" -->
+<!-- .slide: data-background="media/img/F-Lisbon.png" data-state="state--bg-dark" -->
 
 <div class="talk-title">
   <h1>Teaching XR technology as a Fulbright Fellow in Portugal</h1>
@@ -6,7 +6,9 @@
     Brenda A. López Silva | 2021 Fulbright Scholar 
   </p>
 </div>
- 
+<div class="talk-footer-image">
+  <img data-src="media/img/logo-Fulbright-s.png">
+</div> 
 <!-- NOTES -->
 - Personal Intro and Who I am
 - XR and my personal experience creating and teaching it
@@ -210,7 +212,8 @@ Elements of a VR multi-sensory experience
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/logo-Fulbright.png">
-    <i>Dora Reis Arenga</i><i>Otília Macedo Reis</i>
+    <i>• Dora Reis Arenga</i>
+    <i>• Otília Macedo Reis</i>
     <hr style="width:60%">
     <i></i><i></i><i></i><i></i><i></i><i></i>
     
@@ -218,17 +221,17 @@ Elements of a VR multi-sensory experience
   </div>
   <div>
     <img data-src="media/img/logo-escs.png">
-    <i>Sandra Lopez Miranda</i>
-    <i>Martina Redondo</i>
-    <i>Mariana Rita</i>
-    <i>Ricardo Rodriguez</i>
+    <i>• Sandra Lopez Miranda</i>
+    <i>• Martina Redondo</i>
+    <i>• Mariana Rita</i>
+    <i>• Ricardo Rodriguez</i>
   </div>
   <div>
     <img data-src="media/img/logo-escs.png">
-    <i>Miguel Batista</i>
-    <i>Ricardo Pereira</i>
-    <i>Margarida Carvalho</i>
-    <i>Filipe Montargil</i>
+    <i>• Miguel Batista</i>
+    <i>• Ricardo Pereira</i>
+    <i>• Margarida Carvalho</i>
+    <i>• Filipe Montargil</i>
   </div>
 </div>
 
