@@ -222,14 +222,13 @@ Elements of a VR multi-sensory experience
     <i>Martina Redondo</i>
     <i>Mariana Rita</i>
     <i>Ricardo Rodriguez</i>
+  </div>
+  <div>
+    <img data-src="media/img/logo-escs.png">
     <i>Miguel Batista</i>
     <i>Ricardo Pereira</i>
     <i>Margarida Carvalho</i>
     <i>Filipe Montargil</i>
-  </div>
-  <div>
-    <img data-src="media/img/logo-escs.png">
-    
   </div>
 </div>
 
