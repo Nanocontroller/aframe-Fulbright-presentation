@@ -131,11 +131,13 @@ Elements of a VR multi-sensory experience
 
 <!-- .element: class="stretch" -->
 ---
+
 <!-- .slide: data-background-video="media/video/Cabeca-Portugal.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
 # Interactive
 
 <!-- .element: class="stretch" -->
+
 ---
 
 <!-- .element: class="stretch" -->
