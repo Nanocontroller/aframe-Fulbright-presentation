@@ -1,10 +1,10 @@
 <!-- .slide: data-background="media/img/F-Lisbon.png" -->
 
 <div class="talk-title">
-  <h1>The Reality and Journey of Teaching Virtual and Augmented Reality in Portugal.</h1>
-  <p>Experience in Portugal</p>
+  <h1>Monarch XR</h1>
+  <p>An XR experience to understand more about interactions in mixed spaces</p>
   <p class="talk-info">
-    @nanocontroller | Brenda A. Lopez Silva | **Fulfrigh US Scholar 2021**
+    @nanocontroller | Brenda A. Lopez Silva | **XR design**
   </p>
 </div>
 
@@ -20,13 +20,15 @@
 * Developed Learning Technologies with Computer Scientists
 * Created a Lab for learning technolgy R&D
 * Teach eXtended Reality in Chicago
-* Lucky to be a Fulbright Scholar
 
 ------
 
-# Virtual Reality
+# Learning Environments
 
-<!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
+* Current educational goals envision **learning environments** in which students are genuinely engaged in productive disciplinary work [^1]. Yet creating environments in which such experiences occur is neither common nor easy.
+
+
+<!-- .slide: data-background="media/images/learning-0.jpg" -->
 
 <!-- NOTES -->
 - Ask how many have tried VR.

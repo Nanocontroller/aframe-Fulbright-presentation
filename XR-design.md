@@ -19,21 +19,22 @@
 <div class="slide__boilerplate">
 
 <p>VR application developer for 20+ years</p>
-<p>Works with scientists and educators</p>
+<p>Work with scientists and educators</p>
 <p>Directed a university lab for learning technologies</p>
-<p>Teaches XR technologies at School of the Art Institute of Chicago (SAIC)</p>
+<p>Teach XR technologies at School of the Art Institute of Chicago (SAIC)</p>
 </div>
 
 ------
-<!-- .slide: data-background="media/img/escs.jpg" -->
-# Fulbright in Lisbon
-### Escola Superior de Comunicação Social
+<!-- .slide: data-background="media/images/learning-0.jpg" -->
 
-<div class="slide__boilerplate">
-  <p>Augmented Reality</p>
-  <p>Real-Time Interaction</p>
-  <p>Comunicação Multimédia</p>
-</div>
+## [fit] Learning Environments
+
+<br> 
+
+Current educational goals envision **learning environments** in which students are genuinely engaged in productive disciplinary work [^1]. Yet creating environments in which such experiences occur is neither common nor easy.
+
+[^1]: Gardner, 1999; Lamon et al., 1996; National Council of Teachers of Mathematics [NCTM], 1991, 2000; National Science Foundation, 1997
+
 
 ---
 # Augmented Reality 
